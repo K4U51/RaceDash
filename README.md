@@ -18,3 +18,5 @@ motorsport-dashboard/
     ├── icons/
     ├── logos/
     └── images/
+
+<img src="1C842839-FDF0-432C-B82A-2082F9FF34E2.png" alt="RaceDash screenshot" width="600" />
